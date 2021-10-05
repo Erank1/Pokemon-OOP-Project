@@ -1,0 +1,38 @@
+home
+1
+26 3 pallet 95 130 1
+pallet
+3
+34 2 route1 200 620 0
+16 5 home 70 128 1
+16 5 oaks_lab 97 180 3
+oaks_lab
+1
+26 1 pallet 257 227 1
+route1
+2
+59 2 viridian 378 612 0
+32 2 pallet 200 7 4
+viridian
+6
+78 3 route2 170 605 0
+16 5 gym 96 178 2
+16 5 house1 70 128 6
+18 5 shop 77 120 7
+18 5 pharmacy 113 126 8
+64 2 route1 185 10 10
+pharmacy
+1
+26 2 viridian 415 432 1
+shop
+1
+26 2 viridian 576 315 1
+house1
+1
+26 3 viridian 400 313 1
+gym
+1
+22 3 viridian 578 180 3
+route2
+1
+51 3 viridian 324 12 0

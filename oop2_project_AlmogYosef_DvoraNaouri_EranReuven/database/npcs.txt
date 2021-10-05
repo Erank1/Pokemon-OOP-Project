@@ -1,0 +1,32 @@
+home
+1
+mom 0
+Good luck my son. Now go and catch'em all! Don't forget to change underwear every day!
+oaks_lab
+1
+professor_oak 0
+Hello and Welcome to Pokemon-tz!
+pallet
+1
+npc1 2
+ZzZzZzZzZzZz...
+shop
+1
+shop_npc 0
+I'm sorry, we're closed at the moment.
+house1
+1
+npc6 0
+That's what she said...
+viridian
+5
+npc8 1
+They say inside this building there are the best trainers in the world! You should try fight them!
+npc3 3
+I'm looking to the left.
+npc2 4
+I'm looking straight.
+npc4 5
+I'm looking to the right.
+npc5 9
+Welcome to Viridian, the toughest city in the world. Feel free to look around. You can also heal your pokemons in our very own Pharmacy!
